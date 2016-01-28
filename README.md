@@ -2,6 +2,10 @@
 作品公開<br>
 <br>
 ゲーム名「大冒険！パン物語！」<br>
+
+ゲームリンク<br>
+http://syougun06.github.io/panweb/panweb.html<br>
+
 操作説明<br>
 　W＝前進S=後退A=左移動D=右移動　Shift押しながらで歩き　スペースボタン＝ジャンプ　視点移動＝マウス操作<br>
 　<br>
