@@ -5,6 +5,9 @@
 
 ゲームリンク<br>
 http://syougun06.github.io/panweb/panweb.html<br>
+遊ぶためにはUnity Web Playerのインストールが必要です。<br>
+https://unity3d.com/jp/webplayer<br>
+(Google Chromeのブラウザでは動作しませんのでIEやFXなどでアクセスしてください）<br>
 
 操作説明<br>
 　W＝前進S=後退A=左移動D=右移動　Shift押しながらで歩き　スペースボタン＝ジャンプ　視点移動＝マウス操作<br>
